@@ -1,7 +1,5 @@
-mistralai
-pandas
-streamlit
-streamlit_chat
-sentence_transformers 
-sklearn.metrics.pairwise 
-json
+scikit-learn==1.5.2
+sentence-transformers==3.3.1
+streamlit==1.40.2
+streamlit-chat==0.1.1
+pandas==2.2.3
