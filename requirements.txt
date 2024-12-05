@@ -1,9 +1,7 @@
 mistralai
 pandas
 streamlit
-
 streamlit_chat
-
 sentence_transformers 
 sklearn.metrics.pairwise 
 json
